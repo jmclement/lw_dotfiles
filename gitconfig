@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jmclement16@gmail.com
+	name = Jean-Marc Clement
